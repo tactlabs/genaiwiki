@@ -11,11 +11,15 @@ Framework for developing applications powered by language models efficiently.
 
 https://www.langchain.com/
 
+---
+
 ### 2
 ### Hugging Face Transformers
 Essential library providing pre-trained models for NLP and CV.
 
 https://huggingface.co/docs/transformers/
+
+---
 
 ### 3
 ### LlamaIndex
@@ -23,17 +27,23 @@ Data framework for connecting custom data with large language models.
 
 https://www.llamaindex.ai/
 
+---
+
 ### 4
 ### Gradio
 Create customizable ML model demos and interfaces with minimal code.
 
 https://gradio.app/
 
+---
+
 ### 5
 ### OpenAI GPT API
 Official API for accessing GPT models and completions.
 
 https://platform.openai.com/docs/api-reference
+
+---
 
 ### 6
 ### Streamlit
@@ -1563,6 +1573,8 @@ https://github.com/modelserve-sdk/modelserve-sdk
 SDK for text embedding.
 
 https://github.com/textembed-sdk/textembed-sdk
+
+
 
 
 

@@ -1,4 +1,4 @@
-# Wiki Template
+# GenaI Wiki
 
 Description
 
