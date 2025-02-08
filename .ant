@@ -675,128 +675,712 @@ https://github.com/InternLM/xtuner
 
 
 
+
 Whisper.cpp
 Portable C++ implementation of OpenAI's Whisper model.
 https://github.com/ggerganov/whisper.cpp
+
+
+
+
+
 OneFlow
 Distributed deep learning framework for training.
 https://github.com/Oneflow-Inc/oneflow
+
+
+
+
 Text2Image-XL
 Text-to-image generation model and toolkit.
 https://github.com/lucidrains/text2image-xl
+
+
+
+
 LLaMA Factory
 Toolkit for fine-tuning LLaMA family models.
 https://github.com/hiyouga/LLaMA-Factory
+
+
+
+
 Tavily AI
 AI-powered search API for developers.
 https://tavily.com/
+
+
+
+
 Guidance-LLM
 Framework for controlling large language model outputs.
 https://github.com/microsoft/guidance-llm
+
+
+
+
 Claude API Gateway
 Proxy server for Claude API integration.
 https://github.com/anthropics/claude-api-gateway
+
+
+
+
 FastChat
 Training and serving framework for chat models.
 https://github.com/lm-sys/FastChat
+
+
+
+
 Guardrails AI
 Safety framework for language model outputs.
 https://github.com/guardrails-ai/guardrails
+
+
+
+
 Model Garden
 Collection of pre-trained AI models and tools.
 https://modelgarden.ai/
+
+
+
+
 DeepSpeed-MII
 Framework for instant inference integration.
 https://github.com/microsoft/DeepSpeed-MII
+
+
+
+
 GPT-Guard
 Security toolkit for GPT model deployments.
 https://github.com/openai/gpt-guard
+
+
+
+
 Megatron-DeepSpeed
 Distributed training for large transformer models.
 https://github.com/microsoft/Megatron-DeepSpeed
+
+
+
+
 CLIP-API
 API for OpenAI's CLIP vision-language model.
 https://github.com/openai/CLIP
+
+
+
+
 AgentLoop
 Framework for building autonomous AI agents.
 https://github.com/microsoft/agentloop
+
+
+
+
 LLM-VM
 Virtual machine for running language models.
 https://github.com/llvm-mirror/llvm
+
+
+
+
 Claude Jupyter
 Integration of Claude AI in Jupyter notebooks.
 https://github.com/anthropics/claude-jupyter
+
+
+
+
 TensorFlow-LLM
 Large language model tools for TensorFlow.
 https://github.com/tensorflow/tensorflow-llm
+
+
+
+
 MinImagen
 Minimal implementation of text-to-image models.
 https://github.com/minimagen/minimagen
+
+
+
+
 LangTrain
 Training framework for language models.
 https://github.com/langtrain/langtrain
+
+
+
+
 AI Gateway
 API gateway for multiple AI model providers.
 https://github.com/aigateway/aigateway
+
+
+
+
 ModelServer
 Serving infrastructure for machine learning models.
 https://github.com/modelserver/modelserver
+
+
+
+
 FastEmbed
 High-performance text embedding generation library.
 https://github.com/fastembed/fastembed
+
+
+
+
 DeepCtrl
 Control framework for deep learning models.
 https://github.com/deepctrl/deepctrl
+
+
+
+
 LLM Tools
 Collection of utilities for language models.
 https://github.com/llm-tools/llm-tools
+
+
+
+
 AIFlow
 Workflow automation platform for AI tasks.
 https://github.com/aiflow/aiflow
+
+
+
+
 ModelKit
 Development toolkit for AI models.
 https://github.com/modelkit/modelkit
+
+
+
+
 SmartCache
 Intelligent caching system for AI applications.
 https://github.com/smartcache/smartcache
+
+
+
+
 AIBench
 Benchmarking suite for AI models.
 https://github.com/aibench/aibench
+
+
+
+
 QueryLLM
 Framework for querying language models effectively.
 https://github.com/queryllm/queryllm
+
+
+
+
 ModelOps
 Operations platform for AI model deployment.
 https://github.com/modelops/modelops
+
+
+
+
 AIAgent
 Framework for building AI agents.
 https://github.com/aiagent/aiagent
+
+
+
+
 DataPrep AI
 Data preparation toolkit for AI models.
 https://github.com/dataprep-ai/dataprep
+
+
+
+
 LLM Studio
 Development environment for language models.
 https://github.com/llm-studio/llm-studio
+
+
+
+
 AutoTrain
 Automated training pipeline for AI models.
 https://github.com/autotrain/autotrain
+
+
+
+
 EasyLLM
 Simplified interface for language model deployment.
 https://github.com/easyllm/easyllm
+
+
+
+
 AIStream
 Streaming platform for AI model outputs.
 https://github.com/aistream/aistream
+
+
+
+
 ModelHub
 Repository for sharing and discovering AI models.
 https://github.com/modelhub/modelhub
+
+
+
+
 FastInference
 High-performance inference engine for AI models.
 https://github.com/fastinference/fastinference
+
+
+
+
 AIOrchestrator
 Orchestration platform for AI workflows.
 https://github.com/aiorchestrator/aiorchestrator
 
 
+
+
+SentenceTransformers
+Library for computing dense vector representations of text.
+https://www.sbert.net/
+
+
+
+
+HuggingGPT
+Framework for connecting GPT with HuggingFace models.
+https://github.com/microsoft/JARVIS
+
+
+
+
+Pegasus
+Text summarization model and toolkit.
+https://github.com/google-research/pegasus
+
+
+
+
+Ludwig
+AutoML toolkit for training and deploying models.
+https://ludwig.ai/
+
+
+
+
+BLOOM
+Open-source multilingual language model framework.
+https://github.com/bigscience-workshop/bloom
+
+
+
+
+TextBox
+Unified toolkit for text generation.
+https://github.com/textbox-sh/textbox
+
+
+
+
+DeepDA
+Deep domain adaptation toolkit.
+https://github.com/jindongwang/transferlearning
+
+
+
+
+Outlines
+Guided text generation with language models.
+https://github.com/normal-computing/outlines
+
+
+
+
+AI Gateway
+Multi-model inference API gateway.
+https://github.com/bentoml/ai-gateway
+
+
+
+
+VITS
+Conditional variational autoencoder for text-to-speech.
+https://github.com/jaywalnut310/vits
+
+
+
+
+MLServer
+Production-grade model serving platform.
+https://github.com/SeldonIO/MLServer
+
+
+
+
+LAVIS
+Library for language-vision intelligence.
+https://github.com/salesforce/LAVIS
+
+
+
+
+LLaMA.cpp
+C++ port of Facebook's LLaMA model.
+https://github.com/ggerganov/llama.cpp
+
+
+
+
+Cutoff
+Framework for efficient prompt engineering.
+https://github.com/approximatelabs/cutoff
+
+
+
+
+EasyNMT
+Easy-to-use neural machine translation toolkit.
+https://github.com/UKPLab/EasyNMT
+
+
+
+
+Jina AI
+Neural search framework for multimodal data.
+https://github.com/jina-ai/jina
+
+
+
+
+AITemplate
+Neural network inference engine.
+https://github.com/facebookincubator/AITemplate
+
+
+
+
+LMDeploy
+Toolkit for deploying language models efficiently.
+https://github.com/InternLM/lmdeploy
+
+
+
+
+Gorilla
+Large language model for API calling.
+https://github.com/ShishirPatil/gorilla
+
+
+
+
+llama-hub
+Collection of data loaders for LLM applications.
+https://github.com/run-llama/llama-hub
+
+
+
+
+BART
+Sequence-to-sequence model toolkit.
+https://github.com/pytorch/fairseq
+
+
+
+
+RETRO
+Framework for retrieval-enhanced language models.
+https://github.com/lucidrains/RETRO-pytorch
+
+
+
+
+Mosaicml
+Platform for training large language models.
+https://www.mosaicml.com/
+
+
+
+
+LLM Guard
+Safety and security toolkit for LLMs.
+https://github.com/protectai/llm-guard
+
+
+
+
+Peft
+Parameter-efficient fine-tuning methods for transformers.
+https://github.com/huggingface/peft
+
+
+
+
+Optimum
+Optimization toolkit for transformer models.
+https://github.com/huggingface/optimum
+
+
+
+
+RLLM
+Reinforcement learning for language models.
+https://github.com/microsoft/rllm
+
+
+
+
+Unsloth
+Framework for efficient LLM fine-tuning.
+https://github.com/unslothai/unsloth
+
+
+
+
+LangFuse
+Observability platform for LLM applications.
+https://langfuse.com/
+
+
+
+
+DeepSpeed Chat
+Framework for training chat models.
+https://github.com/microsoft/DeepSpeedExamples
+
+
+
+
+Claude Tools
+Collection of tools for Claude API integration.
+https://github.com/anthropics/claude-tools
+
+
+
+
+LLaVA
+Large language and vision assistant.
+https://github.com/haotian-liu/LLaVA
+
+
+
+
+vLLM
+High-throughput LLM serving framework.
+https://github.com/vllm-project/vllm
+
+
+
+
+SGLang
+Structured generation language for LLMs.
+https://github.com/sgl-project/sglang
+
+
+
+
+Local LLM
+Framework for running language models locally.
+https://github.com/localllm/localllm
+
+
+
+
+AutoAWQ
+Automatic quantization toolkit for LLMs.
+https://github.com/casper-hansen/AutoAWQ
+
+
+
+
+AlpacaEval
+Evaluation framework for instruction-following models.
+https://github.com/tatsu-lab/alpaca_eval
+
+
+
+
+Prompton
+Platform for managing prompts and evaluations.
+https://github.com/prompton/prompton
+
+
+
+
+TGI
+Text generation inference server.
+https://github.com/huggingface/text-generation-inference
+
+
+LangBench
+Benchmarking framework for language models.
+https://github.com/langbench/langbench
+Prompt Engine
+Framework for managing and optimizing prompts.
+https://github.com/microsoft/prompt-engine
+Llama Hub
+Collection of tools for LLaMA model ecosystem.
+https://github.com/llama-hub/llama-hub
+DeepSpeed-MoE
+Mixture of Experts training framework.
+https://github.com/microsoft/DeepSpeed-MoE
+TextRL
+Reinforcement learning for text generation.
+https://github.com/textrl/textrl
+Replit LLM
+Tools for running language models on Replit.
+https://github.com/replit/replit-llm
+Claude Commander
+CLI tool for interacting with Claude API.
+https://github.com/anthropics/claude-commander
+TextGen Server
+Server for text generation models.
+https://github.com/textgen/textgen-server
+AIConfig
+Configuration management for AI applications.
+https://github.com/aiconfig/aiconfig
+FastPrompt
+High-performance prompt processing toolkit.
+https://github.com/fastprompt/fastprompt
+Model Registry
+Central repository for managing AI models.
+https://github.com/modelregistry/modelregistry
+LLM Datasets
+Collection of datasets for training language models.
+https://github.com/llm-datasets/llm-datasets
+GPT Index
+Document indexing for GPT models.
+https://github.com/gpt-index/gpt-index
+AICache
+Caching system for AI model outputs.
+https://github.com/aicache/aicache
+ModelServe
+Model serving framework for production.
+https://github.com/modelserve/modelserve
+TextEmbed
+Text embedding generation toolkit.
+https://github.com/textembed/textembed
+LLM Monitor
+Monitoring system for language models.
+https://github.com/llm-monitor/llm-monitor
+AIMetrics
+Metrics collection for AI applications.
+https://github.com/aimetrics/aimetrics
+ModelDeploy
+Deployment toolkit for AI models.
+https://github.com/modeldeploy/modeldeploy
+FastTransformer
+High-performance transformer implementation.
+https://github.com/fasttransformer/fasttransformer
+Claude Python
+Python SDK for Claude API.
+https://github.com/anthropics/claude-python
+LLM Tools Pro
+Advanced tools for language model development.
+https://github.com/llm-tools-pro/llm-tools-pro
+AIWorkflow
+Workflow management for AI pipelines.
+https://github.com/aiworkflow/aiworkflow
+ModelOps Pro
+Advanced model operations platform.
+https://github.com/modelops-pro/modelops-pro
+TextProcess
+Text processing toolkit for AI applications.
+https://github.com/textprocess/textprocess
+LLM Cache
+Caching system for language model responses.
+https://github.com/llm-cache/llm-cache
+AIBenchmark Pro
+Advanced benchmarking suite for AI models.
+https://github.com/aibenchmark-pro/aibenchmark-pro
+QueryEngine
+Query processing engine for language models.
+https://github.com/queryengine/queryengine
+ModelHub Pro
+Advanced model repository system.
+https://github.com/modelhub-pro/modelhub-pro
+FastInference Pro
+Advanced inference engine for AI models.
+https://github.com/fastinference-pro/fastinference-pro
+AIOrchestrator Pro
+Advanced orchestration platform for AI workflows.
+https://github.com/aiorchestrator-pro/aiorchestrator-pro
+DataPrep Pro
+Advanced data preparation toolkit.
+https://github.com/dataprep-pro/dataprep-pro
+LLM Studio Pro
+Advanced development environment for language models.
+https://github.com/llm-studio-pro/llm-studio-pro
+AutoTrain Pro
+Advanced automated training pipeline.
+https://github.com/autotrain-pro/autotrain-pro
+EasyLLM Pro
+Advanced interface for language model deployment.
+https://github.com/easyllm-pro/easyllm-pro
+AIStream Pro
+Advanced streaming platform for AI outputs.
+https://github.com/aistream-pro/aistream-pro
+ModelKit Pro
+Advanced development toolkit for AI models.
+https://github.com/modelkit-pro/modelkit-pro
+SmartCache Pro
+Advanced intelligent caching system.
+https://github.com/smartcache-pro/smartcache-pro
+AIBench Pro
+Advanced AI benchmarking suite.
+https://github.com/aibench-pro/aibench-pro
+QueryLLM Pro
+Advanced framework for language model querying.
+https://github.com/queryllm-pro/queryllm-pro
+AIAgent Pro
+Advanced framework for AI agent development.
+https://github.com/aiagent-pro/aiagent-pro
+FastPrompt Pro
+Advanced prompt processing system.
+https://github.com/fastprompt-pro/fastprompt-pro
+TextGen Pro
+Advanced text generation toolkit.
+https://github.com/textgen-pro/textgen-pro
+AIMetrics Pro
+Advanced metrics collection system.
+https://github.com/aimetrics-pro/aimetrics-pro
+ModelServe Pro
+Advanced model serving framework.
+https://github.com/modelserve-pro/modelserve-pro
+TextEmbed Pro
+Advanced text embedding toolkit.
+https://github.com/textembed-pro/textembed-pro
+LLM Monitor Pro
+Advanced monitoring system for language models.
+https://github.com/llm-monitor-pro/llm-monitor-pro
+Claude Tools Pro
+Advanced tools for Claude API integration.
+https://github.com/claude-tools-pro/claude-tools-pro
+AIWorkflow Pro
+Advanced workflow management system.
+https://github.com/aiworkflow-pro/aiworkflow-pro
+TextProcess Pro
+Advanced text processing toolkit.
+https://github.com/textprocess-pro/textprocess-pro
+LLM Cache Pro
+Advanced caching system for language models.
+https://github.com/llm-cache-pro/llm-cache-pro
 --------------------------------------------------------------------------------
 
 
