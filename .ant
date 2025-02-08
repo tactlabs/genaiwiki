@@ -1,0 +1,1233 @@
+
+
+## Admin notes
+
+
+
+LangChain
+Framework for developing applications powered by language models efficiently.
+https://www.langchain.com/
+
+
+
+
+Hugging Face Transformers
+Essential library providing pre-trained models for NLP and CV.
+https://huggingface.co/docs/transformers/
+
+
+
+
+LlamaIndex
+Data framework for connecting custom data with large language models.
+https://www.llamaindex.ai/
+
+
+
+
+Gradio
+Create customizable ML model demos and interfaces with minimal code.
+https://gradio.app/
+
+
+
+
+OpenAI GPT API
+Official API for accessing GPT models and completions.
+https://platform.openai.com/docs/api-reference
+
+
+
+
+Streamlit
+Build and share custom ML/AI web apps quickly.
+https://streamlit.io/
+
+
+
+
+Anthropic Claude API
+API access to Claude models for sophisticated AI tasks.
+https://docs.anthropic.com/claude/reference/getting-started-with-the-api
+
+
+
+
+Stability AI API
+Access to advanced image generation and manipulation models.
+https://platform.stability.ai/
+
+
+
+
+Auto-GPT
+Autonomous AI agent that chains together LLM thoughts independently.
+https://github.com/Significant-Gravitas/Auto-GPT
+
+
+
+
+LangFlow
+Visual tool for building LangChain flows with drag-drop.
+https://github.com/logspace-ai/langflow
+
+
+
+
+Semantic Kernel
+Microsoft's framework for integrating AI with programming languages.
+https://github.com/microsoft/semantic-kernel
+
+
+
+
+Haystack
+Framework for building search and question answering applications.
+https://haystack.deepset.ai/
+
+
+
+
+Flowise
+Build LLM flows with visual drag-and-drop interface.
+https://github.com/FlowiseAI/Flowise
+
+
+
+
+LiteLLM
+Single interface to call all LLM APIs consistently.
+https://github.com/BerriAI/litellm
+
+
+
+
+Chroma
+Open-source embedding database for AI applications.
+https://www.trychroma.com/
+
+
+
+
+GPT4All
+Run open-source large language models locally on CPU.
+https://gpt4all.io/
+
+
+
+
+Ollama
+Run and manage large language models locally.
+https://ollama.ai/
+
+
+
+
+LM Studio
+GUI application for running local AI models easily.
+https://lmstudio.ai/
+
+
+
+
+
+Vector DB
+High-performance vector similarity search for embeddings.
+https://github.com/vectordb/vectordb
+
+
+
+
+
+Instructor
+Library for structured outputs from language models.
+https://github.com/jxnl/instructor
+
+
+
+
+Diffusers
+Hugging Face's state-of-the-art library for image generation.
+https://github.com/huggingface/diffusers
+
+
+
+
+Replicate
+Cloud platform to run and deploy any ML model.
+https://replicate.com/
+
+
+
+
+FastAI
+Deep learning library designed for simplified model training.
+https://www.fast.ai/
+
+
+
+
+Weaviate
+Open-source vector database for AI-native applications.
+https://weaviate.io/
+
+
+
+
+MiniGPT-4
+Compact vision-language model connecting vision and language tasks.
+https://github.com/Vision-CAIR/MiniGPT-4
+
+
+
+
+Langsmith
+Platform for debugging and monitoring LLM applications.
+https://www.langsmith.com/
+
+
+
+
+Transformers.js
+Run Hugging Face models directly in web browsers.
+https://github.com/xenova/transformers.js
+
+
+
+
+Qdrant
+Vector similarity search engine for AI applications.
+https://qdrant.tech/
+
+
+
+
+Text Generation WebUI
+Interface for running text generation models locally.
+https://github.com/oobabooga/text-generation-webui
+
+
+
+
+AgentGPT
+Autonomous AI agents in your browser.
+https://agentgpt.reworkd.ai/
+
+
+
+
+ComfyUI
+Node-based UI for stable diffusion workflows.
+https://github.com/comfyanonymous/ComfyUI
+
+
+
+
+Milvus
+Open-source vector database for embedding similarity search.
+https://milvus.io/
+
+
+
+
+LlamaLab
+Collection of tools for working with local LLMs.
+https://llamalab.com/
+
+
+
+
+GPT Engineer
+AI coding assistant that generates entire codebases.
+https://github.com/AntonOsika/gpt-engineer
+
+
+
+
+Guidance
+Language model prompt programming framework.
+https://github.com/microsoft/guidance
+
+
+
+
+Helm
+Framework for evaluating language models systematically.
+https://github.com/stanford-crfm/helm
+
+
+
+
+VLLM
+High-throughput and memory-efficient LLM inference engine.
+https://github.com/vllm-project/vllm
+
+
+
+
+GPTCache
+Semantic cache for LLM applications.
+https://github.com/zilliztech/GPTCache
+
+
+
+
+DeepSpeed
+Deep learning optimization library for training and inference.
+https://www.deepspeed.ai/
+
+
+
+
+Modal
+Platform for running AI workloads in the cloud.
+https://modal.com/
+
+
+
+
+OpenLLM
+Framework for fine-tuning and deploying large language models.
+https://github.com/bentoml/OpenLLM
+
+
+
+
+PromptFlow
+Microsoft's tool for building AI workflows visually.
+https://github.com/microsoft/promptflow
+
+
+
+
+MLC LLM
+Run large language models natively on local devices.
+https://github.com/mlc-ai/mlc-llm
+
+
+
+
+SuperAGI
+Framework for building autonomous AI agents.
+https://github.com/TransformerOptimus/SuperAGI
+
+
+
+
+OpenAI Whisper
+Advanced speech recognition model for audio transcription.
+https://github.com/openai/whisper
+
+
+
+
+Claude-to-ChatGPT
+Adapter for using Claude API with ChatGPT tools.
+https://github.com/jtsang4/claude-to-chatgpt
+
+
+
+
+Stable Diffusion WebUI
+Popular interface for running Stable Diffusion locally.
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+
+
+
+Chain-of-Thought Hub
+Collection of prompting techniques for language models.
+https://github.com/FranxYao/chain-of-thought-hub
+
+
+
+
+Embedchain
+Framework for building RAG-based LLM applications.
+https://github.com/embedchain/embedchain
+
+
+
+
+LocalAI
+Self-hosted, community-driven AI cloud alternative.
+https://github.com/go-skynet/LocalAI
+
+
+
+
+
+Pinecone
+Vector database optimized for machine learning applications.
+https://www.pinecone.io/
+
+
+
+
+
+Cohere API
+Platform for building natural language processing applications.
+https://cohere.com/
+
+
+
+
+
+Mistral API
+Access to advanced language models from Mistral AI.
+https://mistral.ai/
+
+
+
+
+
+Nvidia TensorRT-LLM
+Framework for optimizing LLMs on NVIDIA GPUs.
+https://github.com/NVIDIA/TensorRT-LLM
+
+
+
+
+
+Alpaca
+Fine-tuned instruction-following language model framework.
+https://github.com/tatsu-lab/stanford_alpaca
+
+
+
+
+
+LMQL
+Programming language for language model interaction.
+https://github.com/eth-sri/lmql
+
+
+
+
+
+InvokeAI
+Stable Diffusion toolkit for image generation.
+https://github.com/invoke-ai/InvokeAI
+
+
+
+
+
+Petals
+Run large language models collaboratively.
+https://github.com/bigscience-workshop/petals
+
+
+
+
+
+txtai
+All-in-one AI-powered text analysis and workflow automation.
+https://github.com/neuml/txtai
+
+
+
+
+
+PrivateGPT
+Process documents with LLMs using private data.
+https://github.com/imartinez/privateGPT
+
+
+
+
+
+Together AI
+Platform for training and deploying AI models.
+https://www.together.ai/
+
+
+
+
+
+Txt2Vec
+Text vectorization and embedding generation toolkit.
+https://github.com/shibing624/text2vec
+
+
+
+
+
+Ray
+Framework for scaling AI and Python applications.
+https://www.ray.io/
+
+
+
+
+
+BentoML
+Platform for deploying AI models in production.
+https://github.com/bentoml/BentoML
+
+
+
+
+
+Cog
+Container toolkit for machine learning models.
+https://github.com/replicate/cog
+
+
+
+
+
+Axolotl
+Framework for fine-tuning language models.
+https://github.com/OpenAccess-AI-Collective/axolotl
+
+
+
+
+
+H2O.ai
+AutoML platform for building AI applications.
+https://h2o.ai/
+
+
+
+
+
+Marvin
+Framework for building AI applications with Python.
+https://github.com/PrefectHQ/marvin
+
+
+
+
+
+NVIDIA Megatron
+Framework for training large transformer models.
+https://github.com/NVIDIA/Megatron-LM
+
+
+
+
+
+Mosec
+Framework for deploying ML models efficiently.
+https://github.com/mosecorg/mosec
+
+
+
+
+
+ExLlama
+Optimized inference for LLaMA models.
+https://github.com/turboderp/exllama
+
+
+
+
+
+VQGAN
+Neural network for image generation and manipulation.
+https://github.com/CompVis/taming-transformers
+
+
+
+
+
+LMFlow
+Toolbox for fine-tuning large language models.
+https://github.com/OptimalScale/LMFlow
+
+
+
+
+
+UniDiffuser
+Unified diffusion model for generation tasks.
+https://github.com/thu-ml/unidiffuser
+
+
+
+
+
+CTransformers
+Python bindings for GGML language models.
+https://github.com/marella/ctransformers
+
+
+
+
+
+Claude Slack
+Integration of Claude AI into Slack workspace.
+https://www.anthropic.com/claude-in-slack
+
+
+
+
+
+OpenVINO
+Intel's toolkit for optimizing deep learning inference.
+https://github.com/openvinotoolkit/openvino
+
+
+
+
+
+TorchScale
+PyTorch extensions for scaling AI models.
+https://github.com/microsoft/torchscale
+
+
+
+
+
+MLX
+Apple's machine learning framework for Apple Silicon.
+https://github.com/ml-explore/mlx
+
+
+
+
+
+FlashAttention
+Faster transformer training with optimized attention.
+https://github.com/Dao-AILab/flash-attention
+
+
+
+
+
+ClearML
+MLOps platform for managing AI experiments.
+https://github.com/allegroai/clearml
+
+
+
+
+
+DoctranAI
+Document processing pipeline using AI models.
+https://github.com/PicoCreator/doctran-ai
+
+
+
+
+
+Text-Generation-Inference
+Optimized inference server for language models.
+https://github.com/huggingface/text-generation-inference
+
+
+
+
+
+LangKit
+Toolkit for building language model applications.
+https://github.com/whylabs/langkit
+
+
+
+
+
+NVIDIA NeMo
+Framework for conversational AI models.
+https://github.com/NVIDIA/NeMo
+
+
+
+
+
+Claude Canvas
+Visual interface for document analysis with Claude.
+https://www.anthropic.com/claude-in-canvas
+
+
+
+
+
+Triton
+Programming language for parallel computing in AI.
+https://github.com/openai/triton
+
+
+
+
+
+StableLM
+Open-source language models and tools.
+https://github.com/Stability-AI/StableLM
+
+
+
+
+
+CrewAI
+Framework for orchestrating AI agents.
+https://github.com/joaomdmoura/crewAI
+
+
+
+
+
+XTuner
+Framework for efficient LLM fine-tuning.
+https://github.com/InternLM/xtuner
+
+
+
+Whisper.cpp
+Portable C++ implementation of OpenAI's Whisper model.
+https://github.com/ggerganov/whisper.cpp
+OneFlow
+Distributed deep learning framework for training.
+https://github.com/Oneflow-Inc/oneflow
+Text2Image-XL
+Text-to-image generation model and toolkit.
+https://github.com/lucidrains/text2image-xl
+LLaMA Factory
+Toolkit for fine-tuning LLaMA family models.
+https://github.com/hiyouga/LLaMA-Factory
+Tavily AI
+AI-powered search API for developers.
+https://tavily.com/
+Guidance-LLM
+Framework for controlling large language model outputs.
+https://github.com/microsoft/guidance-llm
+Claude API Gateway
+Proxy server for Claude API integration.
+https://github.com/anthropics/claude-api-gateway
+FastChat
+Training and serving framework for chat models.
+https://github.com/lm-sys/FastChat
+Guardrails AI
+Safety framework for language model outputs.
+https://github.com/guardrails-ai/guardrails
+Model Garden
+Collection of pre-trained AI models and tools.
+https://modelgarden.ai/
+DeepSpeed-MII
+Framework for instant inference integration.
+https://github.com/microsoft/DeepSpeed-MII
+GPT-Guard
+Security toolkit for GPT model deployments.
+https://github.com/openai/gpt-guard
+Megatron-DeepSpeed
+Distributed training for large transformer models.
+https://github.com/microsoft/Megatron-DeepSpeed
+CLIP-API
+API for OpenAI's CLIP vision-language model.
+https://github.com/openai/CLIP
+AgentLoop
+Framework for building autonomous AI agents.
+https://github.com/microsoft/agentloop
+LLM-VM
+Virtual machine for running language models.
+https://github.com/llvm-mirror/llvm
+Claude Jupyter
+Integration of Claude AI in Jupyter notebooks.
+https://github.com/anthropics/claude-jupyter
+TensorFlow-LLM
+Large language model tools for TensorFlow.
+https://github.com/tensorflow/tensorflow-llm
+MinImagen
+Minimal implementation of text-to-image models.
+https://github.com/minimagen/minimagen
+LangTrain
+Training framework for language models.
+https://github.com/langtrain/langtrain
+AI Gateway
+API gateway for multiple AI model providers.
+https://github.com/aigateway/aigateway
+ModelServer
+Serving infrastructure for machine learning models.
+https://github.com/modelserver/modelserver
+FastEmbed
+High-performance text embedding generation library.
+https://github.com/fastembed/fastembed
+DeepCtrl
+Control framework for deep learning models.
+https://github.com/deepctrl/deepctrl
+LLM Tools
+Collection of utilities for language models.
+https://github.com/llm-tools/llm-tools
+AIFlow
+Workflow automation platform for AI tasks.
+https://github.com/aiflow/aiflow
+ModelKit
+Development toolkit for AI models.
+https://github.com/modelkit/modelkit
+SmartCache
+Intelligent caching system for AI applications.
+https://github.com/smartcache/smartcache
+AIBench
+Benchmarking suite for AI models.
+https://github.com/aibench/aibench
+QueryLLM
+Framework for querying language models effectively.
+https://github.com/queryllm/queryllm
+ModelOps
+Operations platform for AI model deployment.
+https://github.com/modelops/modelops
+AIAgent
+Framework for building AI agents.
+https://github.com/aiagent/aiagent
+DataPrep AI
+Data preparation toolkit for AI models.
+https://github.com/dataprep-ai/dataprep
+LLM Studio
+Development environment for language models.
+https://github.com/llm-studio/llm-studio
+AutoTrain
+Automated training pipeline for AI models.
+https://github.com/autotrain/autotrain
+EasyLLM
+Simplified interface for language model deployment.
+https://github.com/easyllm/easyllm
+AIStream
+Streaming platform for AI model outputs.
+https://github.com/aistream/aistream
+ModelHub
+Repository for sharing and discovering AI models.
+https://github.com/modelhub/modelhub
+FastInference
+High-performance inference engine for AI models.
+https://github.com/fastinference/fastinference
+AIOrchestrator
+Orchestration platform for AI workflows.
+https://github.com/aiorchestrator/aiorchestrator
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
